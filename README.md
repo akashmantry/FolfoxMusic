@@ -10,4 +10,4 @@ It displays audio’s meta-information and supports keyboard inputs too.(s-searc
 2. Run the FolfoxMusic.pde file
 </br>
 # Known Issues:
-1. Sometimes the audio finishes before the circular visualzer reaches the end.
+Sometimes the audio finishes before the circular visualzer reaches the end.
