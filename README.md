@@ -12,5 +12,5 @@ It displays audio’s meta-information and supports keyboard inputs too.(s-searc
 * Sometimes the audio finishes before the circular visualzer reaches the end.
 
 ##Screenshots:
-![Alt text](/relative/images/player.png?raw=true)
+![Player](/images/player.PNG?raw=true)
 
