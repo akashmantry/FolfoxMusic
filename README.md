@@ -1,8 +1,9 @@
 # FolfoxMusic
 # Description:
-- This a music player application developed using Processing.
-- It uses 'minim' library for playing audio and employs Fast Fourier Transform (FFT) of audio signals for visualization. 
-- It displays audio’s meta-information and supports keyboard inputs too.(s-search music, i-information of audio, space-play/stop)
+This a music player application developed using Processing.
+It uses 'minim' library for playing audio and employs Fast Fourier Transform (FFT) of audio signals for visualization.
+
+It displays audio’s meta-information and supports keyboard inputs too.(s-search music, i-information of audio, space-play/stop)
 </br>
 # To run the application:
 1. Copy the contents in a folder called FolfoxMusic
