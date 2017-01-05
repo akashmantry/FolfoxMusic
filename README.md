@@ -13,4 +13,6 @@ It displays audio’s meta-information and supports keyboard inputs too.(s-searc
 
 ##Screenshots:
 ![Player](/images/player.PNG?raw=true)
+![Player1](/images/playerPlaying.PNG?raw=true)
+![Player2](/images/playerMeta.PNG?raw=true)
 
